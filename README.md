@@ -82,10 +82,17 @@ The game window will open automatically.
 - content_copy
 - expand_less
 backend/
-├── main.py        # Entry point for training and game loop
-├── env/           # Custom RL environment code (ShooterEnv)
-├── models/        # Saved model checkpoints
-└── docs/          # Project documentation and specifications
-Manual control is available for the Green agent:Arrow Keys: Move
 
-Space: Shoot
+├── main.py        # Entry point for training and game loop
+
+├── env/           # Custom RL environment code (ShooterEnv)
+
+├── models/        # Saved model checkpoints
+
+└── docs/          # Project documentation and specifications
+
+## Manual control is available for the Green agent:
+- Arrow Keys: Move
+
+- Space: Shoot
+
