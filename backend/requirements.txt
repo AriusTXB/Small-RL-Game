@@ -1,0 +1,8 @@
+fastapi
+uvicorn
+gymnasium
+torch
+numpy
+stable-baselines3
+websockets
+pydantic
