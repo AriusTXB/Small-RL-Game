@@ -5,7 +5,7 @@ from collections import deque
 
 def generate_maze(size=20, density=0.2):
     """
-    Generates a random maze with assured connectivity between start (1,1) and end (size-2, size-2).
+    Generates a random maze with assured connectivity between start (1, 1) and end (size-2, size-2).
     """
     start = (1, 1)
     end = (size - 2, size - 2)
